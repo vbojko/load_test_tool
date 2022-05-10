@@ -41,4 +41,4 @@ Download this file to the client and make it an executable:
 
 `sudo ./installwrk.sh`
 
-This will update ubuntu, download "wrk" binary from this gitlab repo and download "wrkscript.sh"
+This will download "wrk" binary from this gitlab repo and download "wrkscript.sh"
