@@ -35,12 +35,10 @@ The script "wrkscript.sh" will take the wrk command and runs it on all available
 
 Download this file to the client and make it an executable:
 
-
 `curl -O https://raw.githubusercontent.com/vbojko/load_test_tool/main/installwrk.sh`
 
 `sudo chmod +x ./installwrk.sh`
 
 `sudo ./installwrk.sh`
 
-This will update ubuntu, download "wrk" binary from this gitlab repo and download "wrkscript.sh" 
-
+This will update ubuntu, download "wrk" binary from this gitlab repo and download "wrkscript.sh"
